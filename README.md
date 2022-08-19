@@ -31,6 +31,6 @@
 
 ## 致谢
 
-- [波間のかけひき](https://twitter.com/Umihotarus) 提供原版开源字体；
+- [波間のかけひき](https://twitter.com/Umihotarus) 提供原版字体；
 - @白日月球、@阿東東東東、@荆南字坊、@时光羊、@帆影Shadow、@频凡、@Y^Lin、@orunji协助补字；
 - 所有下载使用的朋友。
