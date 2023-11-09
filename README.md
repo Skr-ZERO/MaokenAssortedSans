@@ -45,3 +45,7 @@
 ## 打赏支持
 
 ![6](image/打赏.jpg)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Skr-ZERO/MaokenAssortedSans.svg)](https://starchart.cc/Skr-ZERO/MaokenAssortedSans)
